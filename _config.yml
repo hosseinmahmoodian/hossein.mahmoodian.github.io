@@ -1,3 +1,7 @@
-name: Amirhosein Toosi | Personal webpage
+name: | Amirhosein Toosi |
+title: Minimal theme
+logo: /assets/img/.jpeg
+description: Minimal is a theme for GitHub Pages.
 markdown: kramdown
+show_downloads: true
 theme: jekyll-theme-minimal
