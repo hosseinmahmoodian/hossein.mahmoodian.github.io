@@ -1,7 +1,7 @@
 name: Amirhosein Toosi
 title: Amirhosein Toosi
 logo: /assets/img/0.jpeg
-description: Personal webpage
+description: Personal webpagePersonal webpagePersonal webpagePersonal webpagePersonal webpagePersonal webpagePersonal webpage
 markdown: kramdown
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
