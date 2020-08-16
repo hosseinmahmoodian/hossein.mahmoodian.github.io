@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### About me
+### `About me`
 
  Computer Vision / Deep Learning Specialist at Abinsula s.r.l , Torino, Italia.
 Former Post-doc Researcher at [Computer Graphics and Vision Group](https://areeweb.polito.it/ricerca/cgvg/index.html), Department of Computer and Control Engineering, Polytechnic University of Turin, worked on Deep Learning based 3D multi-person tracking and pose estimation from multi-view cameras.
