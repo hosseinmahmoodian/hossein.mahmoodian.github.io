@@ -3,5 +3,5 @@ title: AMIRHOSEIN TOOSI
 logo: /assets/img/0.jpeg
 description: Quick links
 markdown: kramdown
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
