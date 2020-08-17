@@ -8,56 +8,69 @@ layout: default
 Former Post-doc Researcher at [Computer Graphics and Vision Group](https://areeweb.polito.it/ricerca/cgvg/index.html), Department of Computer and Control Engineering, Polytechnic University of Turin, worked on Deep Learning based 3D multi-person tracking and pose estimation in sport events using multi-view cameras.
 He received his PhD in Computer and Control Engineering from Polytechnic University of Turin, his Master’s in Mechatronics Engineering (Human-Computer Interaction) from Qazvin Azad University, and his B.s. in Computer Software Engineering from Tehran Azad University.
 As for his PhD research project he worked on Feature Fusion methods for Pattern Recognition problems in Computer Vision, mainly focused on providing Deep Learning feature fusion based solutions for Biometrics Liveness Detection.
-<br>
+
+
 
 ### `Areas of expertise`
 * Machine Learning, Deep Learning, Computer Vision, Medical Image processing.
 * Physics-based VR surgery simulation. 
 * Robot Programming 
 * Strong background in developing multi-disciplinary engineering software solutions.
-<br>
+
+
 
 ### `Technical skills:`
-#### Programming and scripting languages:
+#### `Programming and scripting languages:`
 * Python
 * Matlab
 * JavaScript
 * C/C++
-#### Deep Learning / Machine Learning tools
+
+#### `Deep Learning / Machine Learning tools:`
 * Caffe-SSD
 * TensorFlow / Keras
 * PyTorch
-#### Computer Vision / Image Processing
+
+#### `Computer Vision / Image Processing:`
 * OpenCV
 * Matlab
-#### Computer Graphics
+
+#### `Computer Graphics:`
 * OpenGL
 * glsl
 * WebGL
 * THREE.js
-#### Computer Haptics / VR Simulation
+
+#### `Computer Haptics / VR Simulation:`
 * OpenHaptics
 * Chai3D
-#### Robotics programming framework
+
+#### `Robotics programming framework:`
 * ROS
-#### Game Dev / AR / VR
+
+#### `Game Dev / AR / VR:`
 * Unity3D
-#### OS
+
+#### `OS:`
 * Bash scripting
-#### IDEs
+
+#### `IDEs:`
 * VSCode
 * PyCharm
 * SubLime
 * Atom
 * Vim
-#### Cross-platfor GUI toolkits
+
+#### `Cross-platfor GUI toolkits:`
 * PyQt5
 * Qt
-#### Version control system
+
+#### `Version control system:`
 * Git
 * Github
 * BitBucket
-#### Document preparation
+
+#### `Document preparation:`
 * LaTeX
 
 
