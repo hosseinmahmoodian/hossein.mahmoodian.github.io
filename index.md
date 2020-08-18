@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-### `About me`
+### `About me:`
 <div style="text-align: justify">
  Computer Vision / Deep Learning Specialist at <a href="https://abinsula.com/">Abinsula s.r.l</a>, Torino, Italia.
 Former Post-doc Researcher at <a href="https://areeweb.polito.it/ricerca/cgvg/index.html">Computer Graphics and Vision Group</a>, Department of Computer and Control Engineering, Polytechnic University of Turin, worked on Deep Learning based 3D multi-person tracking and pose estimation in sport events using multi-view cameras.
@@ -15,7 +15,7 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 
 
 
-### `Areas of expertise`
+### `Areas of expertise:`
 * Machine Learning, Deep Learning, Computer Vision, Medical Image processing.
 * Physics-based VR surgery simulation. 
 * Robot Programming 
@@ -25,29 +25,19 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 
 ### `Technical skills:`
 #### `Programming and scripting languages:`
-`Python`
-`Matlab`
-`JavaScript`
-`C/C++`
+`Python | Matlab | JavaScript | C/C++`
 
 #### `Deep Learning / Machine Learning tools:`
-`Caffe-SSD`
-`TensorFlow / Keras`
-`PyTorch`
+`Caffe-SSD | TensorFlow / Keras | PyTorch`
 
 #### `Computer Vision / Image Processing:`
-`OpenCV`
-`Matlab`
+`OpenCV | Matlab`
 
 #### `Computer Graphics:`
-`OpenGL`
-`glsl`
-`WebGL`
-`THREE.js`
+`OpenGL | glsl | WebGL | THREE.js`
 
 #### `Computer Haptics / VR Simulation:`
-`OpenHaptics`
-`Chai3D`
+`OpenHaptics | Chai3D`
 
 #### `Robotics programming framework:`
 `ROS`
@@ -59,21 +49,13 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 `Bash scripting`
 
 #### `IDEs:`
-`VSCode`
-`PyCharm`
-`SubLime`
-`Atom`
-`Vim`
+`VSCode | PyCharm | SubLime | Atom | Vim`
 
 #### `Cross-platfor GUI toolkits:`
-`PyQt5`
-`Qt`
+`PyQt5 | Qt`
 
 #### `Version control system:`
-`Git`
-`Github`
-`GitLab`
-`BitBucket`
+`Git | Github | GitLab | BitBucket`
 
 #### `Document preparation:`
 `LaTeX`
