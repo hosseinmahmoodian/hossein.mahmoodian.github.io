@@ -25,56 +25,57 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 
 ### `Technical skills:`
 #### `Programming and scripting languages:`
-* Python
-* Matlab
-* JavaScript
-* C/C++
+`Python`
+`Matlab`
+`JavaScript`
+`C/C++`
 
 #### `Deep Learning / Machine Learning tools:`
-* Caffe-SSD
-* TensorFlow / Keras
-* PyTorch
+`Caffe-SSD`
+`TensorFlow / Keras`
+`PyTorch`
 
 #### `Computer Vision / Image Processing:`
-* OpenCV
-* Matlab
+`OpenCV`
+`Matlab`
 
 #### `Computer Graphics:`
-* OpenGL
-* glsl
-* WebGL
-* THREE.js
+`OpenGL`
+`glsl`
+`WebGL`
+`THREE.js`
 
 #### `Computer Haptics / VR Simulation:`
-* OpenHaptics
-* Chai3D
+`OpenHaptics`
+`Chai3D`
 
 #### `Robotics programming framework:`
-* ROS
+`ROS`
 
 #### `Game Dev / AR / VR:`
-* Unity3D
+`Unity3D`
 
 #### `OS:`
-* Bash scripting
+`Bash scripting`
 
 #### `IDEs:`
-##### VSCode
-##### PyCharm
-##### SubLime
-##### Atom
-##### Vim
+`VSCode`
+`PyCharm`
+`SubLime`
+`Atom`
+`Vim`
 
 #### `Cross-platfor GUI toolkits:`
-* PyQt5
-* Qt
+`PyQt5`
+`Qt`
 
 #### `Version control system:`
-* Git
-* Github
-* BitBucket
+`Git`
+`Github`
+`GitLab`
+`BitBucket`
 
 #### `Document preparation:`
-* LaTeX
+`LaTeX`
 
 
