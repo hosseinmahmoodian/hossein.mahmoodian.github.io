@@ -17,59 +17,67 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 
 ### `Area of expertise:`
 > `Machine Learning | Deep Learning | Computer Vision`
-> `Medical Image processing `
-> `Computer Graphics | Volume Rendering `
+>``
+> `Medical Image processing`
+>``
+> `Computer Graphics | Volume Rendering`
+>``
 > `Computer Haptics | Physics-based Simulation`
+>``
 > `Robotics`
+>``
 > `Inter-disciplinary engineering software solutions `
+>``
 
 
 
 ### `Technical skills:`
+
+>
 ##### `Programming and scripting languages:`
 > `Python | Matlab | JavaScript | C/C++`
 >
->`-`
+>``
 ##### `Deep Learning / Machine Learning tools:`
 > `Caffe-SSD | TensorFlow / Keras | PyTorch`
 >
->`-`
+>``
 ##### `Computer Vision / Image Processing:`
 > `OpenCV | Matlab`
 >
->`-`
+>``
 ##### `Computer Graphics:`
 > `OpenGL | glsl | WebGL | THREE.js`
 >
->`-`
+>``
 ##### `Computer Haptics / VR Simulation:`
 > `OpenHaptics | Chai3D`
 >
->`-`
+>``
 ##### `Robotics programming framework:`
 > `ROS`
 >
->`-`
+>``
 ##### `Game Dev / AR / VR:`
 > `Unity3D`
 >
->`-`
+>``
 ##### `OS:`
 > `Bash scripting`
 >
->`-`
+>``
 ##### `IDEs:`
 > `VSCode | PyCharm | SubLime | Atom | Vim`
 >
->`-`
+>``
 ##### `Cross-platfor GUI toolkits:`
 > `PyQt5 | Qt`
 >
->`-`
+>``
 ##### `Version control system:`
 > `Git | Github | GitLab | BitBucket`
 >
->`-`
+>``
 ##### `Document preparation:`
 > `LaTeX`
 
