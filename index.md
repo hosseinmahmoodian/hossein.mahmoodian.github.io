@@ -5,7 +5,7 @@ layout: default
 
 ### `About me:`
 <div style="text-align: justify">
-<font size="3"> Computer Vision / Deep Learning Specialist </font> at <a href="https://abinsula.com/">Abinsula s.r.l</a>, Torino, Italia.
+ Computer Vision / Deep Learning Specialist at <a href="https://abinsula.com/">Abinsula s.r.l</a>, Torino, Italia.
 Former Post-doc Researcher at <a href="https://areeweb.polito.it/ricerca/cgvg/index.html">Computer Graphics and Vision Group</a>, Department of Computer and Control Engineering, Polytechnic University of Turin, worked on Deep Learning based 3D multi-person tracking and pose estimation in sport events using multi-view cameras.
 He received his PhD in Computer and Control Engineering from Polytechnic University of Turin, his Master’s in Mechatronics Engineering (Human-Computer Interaction) from Qazvin Azad University, and his B.s. in Computer Software Engineering from Tehran Azad University.
 As for his PhD research project he worked on Feature Fusion methods for Pattern Recognition problems in Computer Vision, mainly focused on providing Deep Learning feature fusion based solutions for Biometrics Liveness Detection.
@@ -15,7 +15,7 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 
 
 
-### `Area of expertise:`
+### `Area of expertise:` <font size="1">
 > `Machine Learning | Deep Learning | Computer Vision`
 >
 > `Medical Image processing`
@@ -27,7 +27,7 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 > `Robotics`
 >
 > `Inter-disciplinary engineering software solutions `
->
+> </font>
 
 
 
