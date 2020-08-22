@@ -15,8 +15,8 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 
 
 
-### `Area of expertise:` <font size="1">
-> `Machine Learning | Deep Learning | Computer Vision`
+### `Area of expertise:`
+ <font size="1"> > `Machine Learning | Deep Learning | Computer Vision` </font>
 >
 > `Medical Image processing`
 >
@@ -27,7 +27,7 @@ As for his PhD research project he worked on Feature Fusion methods for Pattern 
 > `Robotics`
 >
 > `Inter-disciplinary engineering software solutions `
-> </font>
+> 
 
 
 
